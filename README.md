@@ -1,2 +1,3 @@
-# basic-android-kotlin-compose-training-inventory-app-starter
- 
+# room-db-training
+
+I'm using this project as a training aid to help other engineers learn Android Development.
